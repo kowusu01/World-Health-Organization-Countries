@@ -63,7 +63,7 @@ ISONum
 - the three digit numeric iso number for the country, e.g. '840' for the United States
 
 ## Note
-- Some countries may not appear in the country list, espcially countries that are not WHO countries.
+- Some countries may not appear in the country list, especially countries that are not WHO countries.
 
 ## Gotchas
 - In the dataset, the country Namibia has a country iso code as "NA". In some cases R reads this as NA. You may have to verify after reading the data to make sure Namibia has two digit iso code as string "NA" not NA or Null.
