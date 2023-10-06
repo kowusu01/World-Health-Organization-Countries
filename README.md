@@ -67,3 +67,4 @@ ISONum
 
 ## Gotchas
 - In the dataset, the country Namibia has a country iso code as "NA". In some cases R reads this as NA. You may have to verify after reading the data to make sure Namibia has two digit iso code as string "NA" not NA or Null.
+
